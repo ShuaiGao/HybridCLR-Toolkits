@@ -1,0 +1,18 @@
+{
+  "name": "com.dongua.HybridCLR",
+  "version": "0.1.7",
+  "displayName": "HybridCLR-Toolkits for Unity",
+  "description": "This package contains a collection of tools, used to HybridCLR.",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/ShuaiGao/HybridCLR-Toolkits",
+  "keywords": [
+    "HybridCLR",
+    "huatuo",
+    "wolong",
+    "il2cpp"
+  ],
+  "author": {
+    "name": "Dongua",
+    "url": "https://github.com/ShuaiGao"
+  }
+}
